@@ -1,0 +1,1 @@
+Modos de pagamento que podem ser usadas pelo usuário.
